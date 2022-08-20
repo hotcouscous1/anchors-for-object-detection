@@ -5,7 +5,7 @@
 </p>
 
 ### Anchor-Maker
-Generate anchors to combine with regression predictions of a model. For other cases, check [here](https://github.com/hotcouscous1/Anchors-for-Object-Detections/issues/1).
+Generate anchors to combine with regression predictions of a model. For other cases, check [here](https://github.com/hotcouscous1/Anchors-for-Object-Detection/issues/1).
 
 ```python
 img_size = 608
